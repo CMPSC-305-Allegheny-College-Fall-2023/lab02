@@ -1,6 +1,6 @@
 # Database Systems (CS305) Lab 2 Assignment (Part 1)
 
-Part 1: Creating a large-scale and persistent database using **one** table
+Creating a large-scale and persistent database using **one** table
 
 **Assigned** : Monday 14 September 2023
 
