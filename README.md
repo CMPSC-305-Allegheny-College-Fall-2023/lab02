@@ -2,9 +2,9 @@
 
 Creating a large-scale and persistent database using **one** table
 
-**Assigned** : Monday 14 September 2023
+**Assigned** : Thursday 14 September 2023
 
-**Due** : Monday 21 September 2023
+**Due** : Thursday 21 September 2023
 
 ![logo](graphics/nprotTable.png)
 
