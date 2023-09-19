@@ -12,7 +12,7 @@ Add Your Name Here
 
 /* Create your tables. Modify the below code to create your table. */
 
-DROP TABLE IF EXISTS sprot;
+DROP TABLE IF EXISTS nprot;
 
 
 /* TODO: fix the below table creation code */
